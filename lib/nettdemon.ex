@@ -1,0 +1,2 @@
+defmodule Nettdemon do
+end
